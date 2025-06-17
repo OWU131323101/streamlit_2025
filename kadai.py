@@ -36,13 +36,13 @@ def get_zodiac(birthday):
 
 # ラッキーカラーの辞書
 lucky_colors = {
-    "楽しい": {"name": "黄色", "hex": "#FFD700", "image": "/images/yellow.jpg"},
-    "普通": {"name": "青色", "hex": "#1E90FF", "image": "/images/blue.jpg"},
-    "悲しい": {"name": "灰色", "hex": "#808080", "image": "/images/gray.jpg"},
-    "イライラ": {"name": "赤色", "hex": "#DC143C", "image": "/images/red.jpg"},
-    "疲れた": {"name": "緑色", "hex": "#3CB371", "image": "/images/green.jpg"},
-    "ワクワク": {"name": "オレンジ色", "hex": "#FFA500", "image": "/images/orange.jpg"},
-    "落ち着いている": {"name": "紫色", "hex": "#9370DB", "image": "/images/purple.jpg"},
+    "楽しい": {"name": "黄色", "hex": "#FFD700", "image": "https://i.imgur.com/NObh7mQ.jpeg"},
+    "普通": {"name": "青色", "hex": "#1E90FF", "image": "https://i.imgur.com/CFF489M.jpeg"},
+    "悲しい": {"name": "灰色", "hex": "#808080", "image": "https://i.imgur.com/ZyRyGHb.jpeg"},
+    "イライラ": {"name": "赤色", "hex": "#DC143C", "image": "https://i.imgur.com/gwShRt3.jpeg"},
+    "疲れた": {"name": "緑色", "hex": "#3CB371", "image": "https://i.imgur.com/x9cRMLv.jpeg"},
+    "ワクワク": {"name": "オレンジ色", "hex": "#FFA500", "image": "https://i.imgur.com/Zy98h0E.jpeg"},
+    "落ち着いている": {"name": "紫色", "hex": "#9370DB", "image": "https://i.imgur.com/FxGGtVb.jpeg"},
 }
 
 # 星座ごとの占い結果
